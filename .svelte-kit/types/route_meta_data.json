@@ -1,0 +1,11 @@
+{
+	"/(app)/(auth)": [],
+	"/(app)": [],
+	"/": [],
+	"/(app)/(auth)/signin": [
+		"src/routes/(app)/(auth)/signin/+page.server.ts"
+	],
+	"/(app)/(auth)/signup": [
+		"src/routes/(app)/(auth)/signup/+page.server.ts"
+	]
+}
